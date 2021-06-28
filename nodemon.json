@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "Tapu",
+    "MONGO_PASSWORD": "logoutyear",
+    "MONGO_DEFAULT_DATABASE": "simpleLogin",
+    "PASS": "logoutyear"
+  }
+}
