@@ -32,6 +32,7 @@ The system has following functionalities:
 
 ```
 - run `npm install`
+- run `npm start` to run the project
 - search in the brower using `localhost:3000`
 
 
