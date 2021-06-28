@@ -37,5 +37,11 @@ The system has following functionalities:
 
 
 # Screenshots
-![Starting](https://user-images.githubusercontent.com/43216053/Login_page.png)
+## Home Page
+![](Login_page.png)
+
+## User Dasboard
+![](user_dashboard.png)
+
+
  
